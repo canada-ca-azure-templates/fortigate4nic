@@ -5,8 +5,8 @@
         "vnetArray": {
             "value": [
                 {
-                    "name": "PwS2-validate-fortigate2NIC-VNET",
-                    "resourceGroup": "PwS2-validate-fortigate2NIC-RG",
+                    "name": "PwS2-validate-fortigate4NIC-VNET",
+                    "resourceGroup": "PwS2-validate-fortigate4NIC-RG",
                     "addressPrefixes": [
                         "10.250.0.0/20"
                     ],
